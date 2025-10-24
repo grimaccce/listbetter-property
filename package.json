@@ -1,0 +1,12 @@
+{
+  "name": "listbetter-property",
+  "version": "1.0.0",
+  "description": "A utility for better listing and displaying object properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["property", "object", "inspect", "list", "utilities"],
+  "author": "",
+  "license": "ISC"
+}
